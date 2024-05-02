@@ -1,13 +1,8 @@
-- 👋 Hi, I’m ZAYENI Hatem
-- 👀 I’m interested in Inverse problems, PDE's Numerical analysis, Scientific computing and High-performance computing
-- 🌱 I’m currently PHD student at National Engineering School of Tunis - Tunisia
-- 💞️ I’m looking to collaborate on Inverse problems, PDE's Numerical analysis, Scientific computing and High-performance computing
-- 📫 How to reach me : hatem.zayeni@enit.utm.tn / https://www.linkedin.com/in/zayeni-hatem-51ab61101/
-
-
 # ZAYENI Hatem
 
-👋 Hi there! I'm ZAYENI Hatem, a PhD student at the National Engineering School of Tunis, Tunisia. Welcome to my GitHub profile!
+👋 Hi there! I'm ZAYENI Hatem, i graduated in December 2023 from the National School of Engineers of Tunis (ENIT) with a doctorate in applied mathematics. Since then, I have been actively engaged in learning and making progress in Artificial Intelligence (AI) for mathematics problems and data science. Additionally, I have contributed to the academic community by providing practical workshops at ENIT for the first year of the Master's program in Mathematical Modeling and Data Science. Currently, I am in a 3-month postdoctoral position at Lab lamè at INSA Bourges, where I am continuing my research in developing numerical algorithms to solve inverse problems.
+
+Welcome to my GitHub profile!
 
 ## Computer & Scientific Calculation Skills
 
@@ -51,10 +46,6 @@ Using mathematical methods and computational techniques for data analysis, probl
 
 ### THEME 3: ARTIFICIAL INTELLIGENCE (AI) AND MATHEMATICS (Beginner)
 AI and mathematics synergize to drive innovation and problem-solving in various domains, utilizing mathematical concepts, algorithms, and techniques to develop intelligent systems.
-
-## Current Status
-
-I graduated in December 2023 from the National School of Engineers of Tunis (ENIT) with a doctorate in applied mathematics. Since then, I have been actively engaged in learning and making progress in Artificial Intelligence (AI) for mathematics problems and data science. Additionally, I have contributed to the academic community by providing practical workshops at ENIT for the first year of the Master's program in Mathematical Modeling and Data Science. Currently, I am in a 3-month postdoctoral position at Lab lamè at INSA Bourges, where I am continuing my research in developing numerical algorithms to solve inverse problems.
 
 ## Get in Touch
 
