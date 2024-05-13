@@ -1,6 +1,6 @@
 # ZAYENI Hatem 
 
-👋 Hi there! I'm ZAYENI Hatem, i graduated in December 2023 from the National School of Engineers of Tunis (ENIT) with a doctorate in applied mathematics. Since then, I have been actively engaged in learning and making progress in Artificial Intelligence (AI) for mathematics problems and data science. Additionally, I have contributed to the academic community by providing practical workshops at ENIT for the first year of the Master's program in Mathematical Modeling and Data Science. Currently, I am in a 3-month postdoctoral position at Lab lamè at INSA Bourges, where I am continuing my research in developing numerical algorithms to solve inverse problems.
+👋 Hi there! I'm ZAYENI Hatem, i graduated in December 2023 from the National School of Engineers of Tunis (ENIT) with a doctorate in applied mathematics. Since then, I have been actively engaged in learning and making progress in Artificial Intelligence (AI) for mathematics problems and data science. Currently, I am in a postdoctoral position at Lab lamè at INSA Bourges, where I am continuing my research in developing numerical algorithms to solve inverse problems.
 
 Welcome to my GitHub profile!
 # Uuups!! My Projects are private in this moment 
