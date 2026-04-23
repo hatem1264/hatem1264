@@ -8,7 +8,7 @@ Actuellement en postdoctorat à l'**Université de Poitiers (Institut Pprime)**,
 ---
 
 ### 🔬 Thèmes de Recherche
-* **Problèmes Inverses :** Complétion de données de Cauchy, identification de sources et de paramètres (Coefficient de Robin, Module de Young).
+* **Problèmes Inverses :** Complétion de données de Cauchy, identification de sources et de paramètres.
 * **Régularisation :** Développement de la méthode de régularisation évanescente (**FRM**).
 * **Modélisation Numérique :** Équations de Stokes (stationnaires et non stationnaires), élasticité linéaire, imagerie biomédicale.
 * **Calcul Scientifique :** Optimisation (Levenberg-Marquardt), Méthode des Éléments Finis (FEM) et Méthode des Solutions Fondamentales (MFS).
