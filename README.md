@@ -1,53 +1,50 @@
-# ZAYENI Hatem 
+# Hatem ZAYENI 🇫🇷 🇹🇳
+### Docteur en Mathématiques Appliquées | Chercheur Postdoctoral à l'Institut Pprime
 
-👋 Hi there! I'm ZAYENI Hatem, Welcome to my GitHub profile!
-# Uuups!! My Projects are private in this moment 
-## Computer & Scientific Calculation Skills
+👋 Bienvenue sur mon profil ! Je suis chercheur en **mathématiques appliquées** et **calcul scientifique**, spécialisé dans la résolution de **problèmes inverses** et l'**assimilation de données**. 
 
-### Computers/Office Automation & Tools:
-- Linux, Windows
-- Git, GitHub
-- Microsoft Office
-- LaTeX
+Actuellement en postdoctorat à l'**Université de Poitiers (Institut Pprime)**, je travaille sur le projet ANR **InvABio**, où je développe des méthodes inverses pour identifier des paramètres biomécaniques liés à l'invasion tumorale (glioblastome).
 
-### Programming Languages:
-- Python, C++, MATLAB, R
-- FEniCS, GetFEM, Firedrake, hIPPYlib
-- pyadjoint, FreeFEM
-- R Statistics, Gmsh, meshio
+---
 
-### AI: Artificial Intelligence Tools:
-- TensorFlow, Scikit Learn, PyTorch, Keras
+### 🔬 Thèmes de Recherche
+* **Problèmes Inverses :** Complétion de données de Cauchy, identification de sources et de paramètres (Coefficient de Robin, Module de Young).
+* **Régularisation :** Développement de la méthode de régularisation évanescente (**FRM**).
+* **Modélisation Numérique :** Équations de Stokes (stationnaires et non stationnaires), élasticité linéaire, imagerie biomédicale.
+* **Calcul Scientifique :** Optimisation (Levenberg-Marquardt), Méthode des Éléments Finis (FEM) et Méthode des Solutions Fondamentales (MFS).
 
-### Visualization:
-- Gnuplot
-- ParaView
+---
 
-## Research Topics
+### 🛠️ Toolbox Informatique
+* **Langages :** `Python`, `C/C++`, `MATLAB`, `R`
+* **Calcul Scientifique :** `FreeFEM`, `FEniCS`, `GetFEM`, `Firedrake`, `hIPPYlib`
+* **IA & Data Science :** `PyTorch`, `TensorFlow`, `Scikit-Learn`, `Keras`
+* **Visualisation & Maillage :** `ParaView`, `Gnuplot`, `Gmsh`, `meshio`
+* **Outils :** `Linux`, `Git/GitHub`, `LaTeX`
 
-### THEME 1: INVERSE PROBLEMS
-#### (1) Data Assimilation problems of mathematical models:
-Data assimilation (DA) is a powerful tool that combines observational data with mathematical models to increase prediction accuracy in dynamic systems.
+---
 
-#### (2) Data completion problems of mathematical models:
-Research includes applying inverse methods for solving data completion problems, numerical implementation using various methods, and application to simultaneous parameter identification and crack detection.
+### 🚀 Projets en cours (Développement Open-Source)
+* **[FRM-MFS](https://github.com/hatem1264/FRM-MFS)** (90%) : Package Python pour la résolution d'EDP (directes/inverses) via la méthode des solutions fondamentales.
+* **FRM-FEM** (50%) : Bibliothèque dédiée aux problèmes inverses par la méthode des éléments finis.
 
-#### (3) Parameter identification problem of mathematical models:
-The process involves determining unknown parameters of mathematical models based on observed data or experimental measurements using optimization techniques and statistical methods.
+---
 
-### THEME 2: MATHEMATICAL MODELING AND SCIENTIFIC CALCULATIONS
-#### (1) Mathematical Modeling:
-Creating mathematical representations of real-world systems for insights, predictions, or problem-solving.
+### 📚 Publications Récentes
+1.  *Fading regularization method for the stationary Stokes data assimilation problem* (CMAME, 2024).
+2.  *Fading regularization MFS algorithm for the Cauchy problem...* (Numerical Algorithms, 2023).
+3.  *Levenberg-Marquardt method for identifying Young's modulus...* (Electronic Research Archive, 2022).
 
-#### (2) Scientific Calculations:
-Using mathematical methods and computational techniques for data analysis, problem-solving, and simulations in scientific research and engineering.
+---
 
-### THEME 3: ARTIFICIAL INTELLIGENCE (AI) AND MATHEMATICS (Beginner)
-AI and mathematics synergize to drive innovation and problem-solving in various domains, utilizing mathematical concepts, algorithms, and techniques to develop intelligent systems.
+### 📈 Statistiques GitHub
+![Hatem's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatem1264&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatem1264&layout=compact&theme=radical)
 
-## Get in Touch
+---
 
-I'd love to hear from you! Whether it's about collaboration opportunities, questions about my projects, or just to say hi, feel free to reach out via email or LinkedIn.
-
-- 📧 Email: hatem.zayeni@enit.utm.tn
-- 🔗 [LinkedIn](https://www.linkedin.com/in/zayeni-hatem-51ab61101/)
+### 📫 Me contacter
+* **Website:** [hatem1264.github.io/website/](https://hatem1264.github.io/website/)
+* **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/hatem-zayeni/)
+* **Google Scholar:** [Hatem Zayeni](https://scholar.google.fr/citations?user=your_id)
+* **Email:** hatem.zayeni@univ-poitiers.fr
