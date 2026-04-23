@@ -37,12 +37,6 @@ Actuellement en postdoctorat à l'**Université de Poitiers (Institut Pprime)**,
 
 ---
 
-### 📈 Statistiques GitHub
-![Hatem's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatem1264&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatem1264&layout=compact&theme=radical)
-
----
-
 ### 📫 Me contacter
 * **Website:** [hatem1264.github.io/website/](https://hatem1264.github.io/website/)
 * **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/hatem-zayeni/)
